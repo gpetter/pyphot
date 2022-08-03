@@ -25,7 +25,7 @@ import operator
 import functools
 import itertools
 
-from collections import Iterable
+from collections.abc import Iterable
 
 from pkg_resources import resource_filename
 
